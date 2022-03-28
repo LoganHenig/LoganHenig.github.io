@@ -1,2 +1,2 @@
 alert("LoganHenig js from github")
-alert("location: ")
+alert("location: https://loganhenig.github.io/XSS.js")
